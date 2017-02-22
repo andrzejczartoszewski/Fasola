@@ -1,0 +1,40 @@
+
+.navbar{
+	margin-bottom: 0;
+}
+.fa-chevron-circle-down{font-size: 50px;
+	background-color: rgba(16,115,27,1);
+	text-align: center;
+}
+.row{ background-color: #bcd6cb;
+padding: 0; }
+.aa1{background-color:rgba(16,115,27,1) ;
+padding: 40px;}
+.a4{margin:0 auto;
+padding-bottom:40px;
+margin-top: 30px; }
+li{font-size: 25px;}
+div.bb1{background-color: black;
+margin-top: 30px;}
+div.cc1{background-color: white;
+width: 320px;
+height: 320px;
+border-radius: 50%;
+position: relative;
+margin: 0 auto;
+}
+div.dd1{
+	position: absolute;
+	top: 27px;
+	left: 12px;
+}
+div.a4>>div.ee1{padding: 20px;
+width: 100%;}
+input[type="text"], input[type="password"]{width: 100%;
+margin-left: 0px;
+text-align: right;}
+.submit{text-align: center;}
+.navbar{
+	margin-bottom: 0;
+}
+.a3{margin-top: 40px;}	
